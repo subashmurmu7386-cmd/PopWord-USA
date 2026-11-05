@@ -1,0 +1,6 @@
+{
+  "name": "PopWord USA — Telegram Mini App Game",
+  "description": "A production-ready Telegram Mini App game featuring Daily PopWord (6x5 US Pop-Culture Wordle) and Trivia Blitz with Web Audio synth feedback, Monetag ad lifelines, and Local-First Firebase sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
